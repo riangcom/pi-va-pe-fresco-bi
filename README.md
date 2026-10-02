@@ -3,7 +3,7 @@
 Dashboard interativo (Streamlit + Plotly) de mix, grade de numeração e rentabilidade da Pé Fresco Calçados, construído sobre os **relatórios reais do PDV** da loja (Relatório de Controle de Venda, agosto e setembro de 2026, 3 filiais).
 
 **Aluno:** Rian Godinho Caixeta Oliveira Martins · **Professor:** Thalles Santos · **Disciplina:** 11304921015_20262_02
-**App:** https://pe-fresco-bi.streamlit.app
+**App:** https://pe-fresco-bi.streamlit.app · **Vídeo:** https://youtu.be/J18ywc7MGps
 
 ## Arquivos
 
